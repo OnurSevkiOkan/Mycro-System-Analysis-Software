@@ -3,11 +3,11 @@
 Mycro System Analysis Software is a utility written in C++/C utilizing Windows API and WMI for system analysis and monitoring.
 
 ![image](https://github.com/OnurSevkiOkan/Mycro-System-Analysis-Software/assets/76997994/9777313a-ea39-4057-80d7-a3700e6c8a93)
-
+-------------------------------------------------------------------------------------------------------------------------------------
 1. Compile the source code using your preferred C++ compiler.
 2. Run the executable.
 3. Choose an option from the menu to perform system analysis tasks.
-
+-------------------------------------------------------------------------------------------------------------------------------------
 1) Date → Provides date information to the user.
 2) Delete File → Deletes the specified file in the same path (still under development).
 3) RAM Usage → Provides information about RAM, including the percentage of memory used, total installed memory, and available RAM.
@@ -19,3 +19,4 @@ Mycro System Analysis Software is a utility written in C++/C utilizing Windows A
 9) Get System Uptime → Shows how long the system has been running without shutdown or reboot.
 10) Get CPU Model → Displays CPU model, architecture, and number of cores, such as "Intel® Core™ i7-13700K Processor," "x64," and "16 Cores."
 11) Get Battery Information → Displays battery information, including battery percentage, name, and status.
+-------------------------------------------------------------------------------------------------------------------------------------
